@@ -1,0 +1,4 @@
+git clone git@bitbucket.org:yanniks/gerrit_tools.git /tmp/gerrit_tools
+sudo cp /tmp/gerrit_tools/gerrit /bin/gerrit
+sudo rm -rf /tmp/gerrit_tools
+echo setup ready!
